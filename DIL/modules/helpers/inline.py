@@ -11,7 +11,7 @@ async def help_menu_logo(answer):
     if image:
         thumb_image = image
     else:
-        thumb_image = "https://graph.org/file/67330d968f2ddc0c4750d.jpg"
+        thumb_image = "https://telegra.ph/file/ad80c134e0a2b89c64b65.jpg"
     button = paginate_plugins(0, plugs, "help")
     answer.append(
         InlineQueryResultPhoto(
@@ -42,12 +42,12 @@ async def help_menu_text(answer):
             title="➻ ʜᴇʟᴘ ᴍᴇɴᴜ ✨",
             input_message_content=InputTextMessageContent(f"""
 **➻ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ʜᴇʟᴘ ᴍᴇɴᴜ ᴏғ
-ᴀʀᴍᴀɴ ✘ ᴜsᴇʀʙᴏᴛ » {__version__} ✨...
+ᴅɪʟ ✘ ᴜsᴇʀʙᴏᴛ » {__version__} ✨...
 
 ➻ ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴs ᴛᴏ
 ɢᴇᴛ ᴜsᴇʀʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs.
 
-➻ ᴜsᴇʀʙᴏᴛ ʙʏ : [ᴀʀᴍᴀɴ ᴛᴇᴄʜ](https://t.me/Dil_Ka_Ehsaas).**""",
+➻ ᴜsᴇʀʙᴏᴛ ʙʏ : [ᴅɪʟ](https://t.me/alonegroup121).**""",
             disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(button),
@@ -83,4 +83,3 @@ async def run_async_inline():
                 return
         else:
             return
-
