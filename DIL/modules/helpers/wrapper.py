@@ -78,9 +78,9 @@ def inline_wrapper(func):
                     results=[
                         (
                             InlineQueryResultPhoto(
-                                photo_url=f"https://te.legra.ph/file/6926207a8c9c4b8e4b93c.jpg",
+                                photo_url=f"https://telegra.ph/file/7e30b0635389ea6756f10.jpg",
                                 title="➻ ᴅɪʟ ✘ ᴜsᴇʀʙᴏᴛ ✨",
-                                thumb_url=f"https://te.legra.ph/file/6926207a8c9c4b8e4b93c.jpg",
+                                thumb_url=f"https://telegra.ph/file/7e30b0635389ea6756f10.jpg",
                                 description=f"【 ᴅᴇᴘʟᴏʏ ʏᴏᴜʀ ᴏᴡɴ ᴅɪʟ ✘ ᴜsᴇʀʙᴏᴛ 🌿...】",
                                 caption=f"<b>➻ ᴡᴇʟᴄᴏᴍᴇ » ᴛᴏ » ᴅɪʟ \n✅ ᴜsᴇʀʙᴏᴛ {__version__} ✨...</b>",
                                 reply_markup=InlineKeyboardMarkup(button),
@@ -98,7 +98,7 @@ def inline_wrapper(func):
                             InlineQueryResultArticle(
                                 title="",
                                 input_message_content=InputTextMessageContent(
-                                    f"||**➻ ᴘʟᴇᴀsᴇ, ᴅᴇᴘʟᴏʏ ʏᴏᴜʀ ᴏᴡɴ ᴅɪʟ ✘ ᴜsᴇʀʙᴏᴛ❗...\n\nʀᴇᴘᴏ:** <i>https://github.com/stkeditz/DIL_USERBOT/</i>||"
+                                    f"||**➻ ᴘʟᴇᴀsᴇ, ᴅᴇᴘʟᴏʏ ʏᴏᴜʀ ᴏᴡɴ ᴅɪʟ ✘ ᴜsᴇʀʙᴏᴛ❗...\n\nʀᴇᴘᴏ:** <i>https://github.com/wwwlbs22/ARTIST_USER_BOT</i>||"
                                 ),
                             )
                         )
