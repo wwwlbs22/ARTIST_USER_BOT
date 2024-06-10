@@ -1,7 +1,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://te.legra.ph/file/6926207a8c9c4b8e4b93c.jpg">
+  <img src="https://telegra.ph/file/7e30b0635389ea6756f10.jpg">
 </p>
 
 <p align="center">
